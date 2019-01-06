@@ -3,7 +3,20 @@ VEX FOR VIM
 
 Basic SideFX Houdini [VEX Language](http://www.sidefx.com/docs/houdini/vex/lang.html) support for VIM
 
-![screenshot](screenshot.png)
+## Difference Between Official VFL Syntax
+
+There is an offical vfl syntax file for VIM in `$HFS/houdini/public/syntax` directory -- which is just C definition
+
+If a picture can speak a thousand words:
+
+![screen shot](screenshot.png)
+
+*// it was after I wrote this syntax file that I found there is an official one, luckily it was not good engough, so my time was not wasted :P*
+
+
+## Home Page
+
+https://github.com/find/vim-vex-lang
 
 
 ## How To Install

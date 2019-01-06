@@ -37,7 +37,7 @@ hi def link vexRawString String
 hi def link vexRawStringDelimiter Delimiter
 hi def link vexContext Statement
 hi def link vexStatement PreProc
-hi def link vexFunction PreProc
+hi def link vexFunction Function
 hi def link vexCaseCommandSub Identifier
 hi def link vexProperty Operator
 
