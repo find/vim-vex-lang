@@ -1,0 +1,15 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "list-vex-functions.js",
+  "dependencies": {
+    "jsdom": "^15.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node list-vex-functions.js"
+  },
+  "author": "iiif",
+  "license": "ISC"
+}
